@@ -42,7 +42,7 @@ Primeramente, instalar paquete desde el repositorio oficial de terraform.
 
   Aclaración: verificar los permisos de acceso hacia la llave linuxkey creada mediante terraform.
 
-
+  También excluir archivos que sean pesados o que no haga falta subir al repo en github, usar .gitignore
 
 # **CREACIÓN DE VM LINUX**
 
